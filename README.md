@@ -25,7 +25,7 @@
 
 <br>
 
-> <h2>Executando o projeto 🚀</h2>
+> <h2>Running the project 🚀</h2>
 
 <div class='exec-project'>
     <ol>
